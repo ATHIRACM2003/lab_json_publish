@@ -1,0 +1,57 @@
+[
+    {
+        "id":"aege",
+        "name":"Aegean",
+        "temparement":"Affectionate,socia,Intelligent,Playful,Active",
+        "origin":"Greece",
+        "description":"Native to the Greek islands known as the Cyclades in the Aegean Sea, these are natural cats, meaning they developed without humans getting involved in their breeding. As a breed, Aegean Cats are rare, although they are numerous on their home islands. They are generally friendly toward people and can be excellent cats for families with children.",
+        "life_span":"9-12",
+        "url":"https://cdn2.thecatapi.com/images/ozEvzdVM-.jpg"
+    },
+    
+    {
+        "id":"amc",
+        "name":"American Curl",
+        "temparement":"Intelligent,Playful,Active",
+        "origin":"America",
+        "description":"They are generally friendly toward people and can be excellent cats for families with children.",
+        "life_span":"9-12",
+        "url":"https://cdn2.thecatapi.com/images/ozEvzdVM-.jpg"
+    },
+    {
+        "id":"bsh",
+        "name":"British Shorthair",
+        "temparement":"Violent,Active",
+        "origin":"Britian",
+        "description":"They are generally Violent toward people and can be excellent cats for Guards.",
+        "life_span":"10-12",
+        "url":"https://cdn2.thecatapi.com/images/ozEvzdVM-.jpg"
+    },
+    {
+        "id":"hvn",
+        "name":"havana",
+        "temparement":"Socal,Playful",
+        "origin":"Canada",
+        "description":"They are generally friendly toward people and can be excellent cats for families with children.they are silent.",
+        "life_span":"6-10",
+        "url":"https://cdn2.thecatapi.com/images/ozEvzdVM-.jpg"
+    },
+    {
+        "id":"krt",
+        "name":"Korat",
+        "temparement":"Wild,Active",
+        "origin":"Japan",
+        "description":"They are developed without humans getting involved in their breeding.",
+        "life_span":"6-9",
+        "url":"https://cdn2.thecatapi.com/images/ozEvzdVM-.jpg"
+    },
+    {
+        "id":"mck",
+        "name":"Munchkin",
+        "temparement":"Cute,Playful,Active",
+        "origin":"Norway",
+        "description":"They are generally friendly toward people and can be excellent cats for families with children.they are really cute and nice to play with",
+        "life_span":"10-12",
+        "url":"https://cdn2.thecatapi.com/images/ozEvzdVM-.jpg"
+    }
+]
